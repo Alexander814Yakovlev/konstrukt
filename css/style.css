@@ -176,13 +176,12 @@ a:visited {
     margin-right: 0;
 }
 
-.header__nav-menu>li {
+.header__nav-menu>li>a {
     color: var(--dark);
 }
 
-.header__nav-menu>li:hover {
+.header__nav-menu>li>a:hover {
     color: var(--accent);
-    font-weight: bold;
 }
 
 
